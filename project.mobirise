@@ -76,7 +76,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
@@ -238,7 +238,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
@@ -353,7 +353,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
