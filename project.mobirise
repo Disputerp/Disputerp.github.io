@@ -58,7 +58,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>   ",
           "_tags": [
             "Motywy"
           ],
@@ -76,7 +76,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "30px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
@@ -220,7 +220,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>   ",
           "_tags": [
             "Motywy"
           ],
@@ -238,7 +238,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "30px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
@@ -335,7 +335,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>   ",
           "_tags": [
             "Motywy"
           ],
@@ -353,7 +353,7 @@
               "color": "#ffffff"
             },
             ".mbr-navbar__items a": {
-              "font-size": "20px"
+              "font-size": "30px"
             },
             ".mbr-brand__name a": {
               "font-size": "25px"
