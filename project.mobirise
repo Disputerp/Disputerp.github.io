@@ -32,8 +32,9 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "uniqCompNum": 6,
-    "versionPublish": "4.10.7"
+    "uniqCompNum": 8,
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Dispute-RP.html": {
@@ -198,6 +199,26 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_inherit": "soundcloud1",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "sound": "https://soundcloud.com/bbnomula/bbno-y2k-lalala",
+            "autoplay": true,
+            "fullWidth": true,
+            "bgColor": "#2c2c2c"
+          },
+          "alias": "soundcloud",
+          "_tags": [
+            "Dodatek"
+          ],
+          "_afterNavbarItem": false,
+          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F633309999&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F633309999",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-6"
         }
       ]
     },
@@ -301,7 +322,7 @@
             },
             "darkBackground": true,
             "overlay": true,
-            "overlayColor": "#28324e",
+            "overlayColor": "#2c2c2c",
             "overlayOpacity": "0.4"
           },
           "title": "KONSTYTUCJA",
