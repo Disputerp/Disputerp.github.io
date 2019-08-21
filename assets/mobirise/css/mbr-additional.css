@@ -10,6 +10,12 @@
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 20px;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-size: 25px;
+}
 #slider-1 H1 {
   color: #ffffff;
 }
@@ -33,6 +39,12 @@
 }
 #ext_menu-2 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-2 .mbr-navbar__items a {
+  font-size: 20px;
+}
+#ext_menu-2 .mbr-brand__name a {
+  font-size: 25px;
 }
 #content5-3 .mbr-header .mbr-header__text {
   text-align: center;
@@ -58,6 +70,12 @@
 }
 #ext_menu-4 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-4 .mbr-navbar__items a {
+  font-size: 20px;
+}
+#ext_menu-4 .mbr-brand__name a {
+  font-size: 25px;
 }
 #content5-5 .mbr-header .mbr-header__text {
   text-align: center;

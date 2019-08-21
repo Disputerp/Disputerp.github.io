@@ -6,7 +6,9 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2c2c2c"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
@@ -48,7 +50,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
@@ -56,7 +58,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
           "_tags": [
             "Motywy"
           ],
@@ -72,19 +74,24 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "25px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-dspe-red-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-logo-dspe-228x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Dispute-RP",
               "link": "Dispute-RP.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -134,7 +141,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/lspd-2000x1125.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -142,11 +149,12 @@
                 "contentAlign": "center",
                 "text": ".",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScq3yvP_KkkpNrP3uqMF92PyAk0mg4sFUw7p7L8Qk6qwQ1_Aw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LSPD</a> ",
-                "overlay": true
+                "overlay": true,
+                "overlayColor": "#2c2c2c"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ems-1920x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -204,7 +212,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
@@ -212,7 +220,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
           "_tags": [
             "Motywy"
           ],
@@ -228,19 +236,24 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "25px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-dspe-red-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-logo-dspe-228x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Dispute-RP",
               "link": "Dispute-RP.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -314,7 +327,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
@@ -322,7 +335,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://discord.gg/rVfU6rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DISCORD</a></li>  ",
           "_tags": [
             "Motywy"
           ],
@@ -338,19 +351,24 @@
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-size": "20px"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "25px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"Dispute-RP.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:rpdispute@gmail.com\">KONTAKT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page2.html\">O NAS</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-dspe-red-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/new-logo-dspe-228x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "Dispute-RP",
               "link": "Dispute-RP.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
