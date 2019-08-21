@@ -17,22 +17,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "cookiesAlert": {
-      "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
-      "colorButton": "#ffffff",
-      "colorLink": "#424a4d",
-      "underlineLink": true,
-      "opacity": "99",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
-    },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "uniqCompNum": 8,
+    "uniqCompNum": 11,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -199,26 +184,6 @@
               "font-size": "36px"
             }
           }
-        },
-        {
-          "_inherit": "soundcloud1",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "sound": "https://soundcloud.com/bbnomula/bbno-y2k-lalala",
-            "autoplay": true,
-            "fullWidth": true,
-            "bgColor": "#2c2c2c"
-          },
-          "alias": "soundcloud",
-          "_tags": [
-            "Dodatek"
-          ],
-          "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F633309999&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F633309999",
-          "_name": "soundcloud2",
-          "_anchor": "soundcloud2-6"
         }
       ]
     },
