@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-21_1624",
+    "name": "DISPUTE-RP",
     "currentPage": "Dispute-RP.html",
     "theme": {
       "name": "default",
@@ -11,6 +11,25 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 6,
     "versionPublish": "4.10.7"
   },
@@ -91,59 +110,63 @@
                 "image": "@PROJECT_PATH@/assets/images/180610-1920x1080.jpg",
                 "active": false,
                 "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "title": "KONSTYTUCJA",
+                "showText": false,
+                "showTitle": true,
+                "title": "ZANIM WEJDZIESZ NA WYSPĘ\r<div>ZAPOZNAJ SIE Z KONSTYTUCJĄ</div>",
                 "contentAlign": "center",
                 "text": "<b>ZANIM WEJDZIESZ NA WYSPĘ<br>ZAPOZNAJ SIE Z KONSTYTUCJĄ</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"KONSTYTUCJA-DSPE.html\" data-toolbar=\"-mbrBtnMove\">KONSTYTUCJA</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.5",
-                "overlayColor": "#553982"
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/439594-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "PODANIA NA WL'ke",
                 "contentAlign": "center",
                 "text": ".",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWIduNJxWSFfv7ySHYiXZtzG7ocHUroEF-msJmuoN2aC97fA/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHITE-LIST</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfWIduNJxWSFfv7ySHYiXZtzG7ocHUroEF-msJmuoN2aC97fA/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WHITE-LIST</a> ",
+                "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/j3m0fn-2000x1125.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "PODANIA NA LSPD",
                 "contentAlign": "center",
                 "text": ".",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScq3yvP_KkkpNrP3uqMF92PyAk0mg4sFUw7p7L8Qk6qwQ1_Aw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LSPD</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScq3yvP_KkkpNrP3uqMF92PyAk0mg4sFUw7p7L8Qk6qwQ1_Aw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LSPD</a> ",
+                "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/grand-theft-auto-v-31035-1920x1080.jpg",
                 "active": false,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "PODANIA NA EMS",
                 "contentAlign": "center",
                 "text": ".",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfpo40ba7kZ48_NLHd8_aDJwK9L6L8_yVIdmKZXma9sYRCxAw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EMS</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSfpo40ba7kZ48_NLHd8_aDJwK9L6L8_yVIdmKZXma9sYRCxAw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EMS</a> ",
+                "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/grand-theft-auto-v-collection-1920x1080-wallpaper-wpt7805145-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
                 "title": "PODANIA NA ORGANIZACJE",
                 "contentAlign": "center",
                 "text": ".",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScVPdhR4gJhEtEsJw7Lg6hRvLBErSW2sS2N0akLARvhw657Bw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORGANIZACJE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://docs.google.com/forms/d/e/1FAIpQLScVPdhR4gJhEtEsJw7Lg6hRvLBErSW2sS2N0akLARvhw657Bw/viewform?usp=sf_link\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORGANIZACJE</a> ",
+                "overlay": true
               }
             ]
           },
@@ -162,6 +185,9 @@
             },
             ".btn": {
               "font-size": "24px"
+            },
+            "DIV": {
+              "font-size": "36px"
             }
           }
         }
