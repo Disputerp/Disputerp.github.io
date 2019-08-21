@@ -133,7 +133,7 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/j3m0fn-2000x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lspd-2000x1125.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -145,8 +145,8 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/grand-theft-auto-v-31035-1920x1080.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ems-1920x1080.png",
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -157,8 +157,8 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/grand-theft-auto-v-collection-1920x1080-wallpaper-wpt7805145-1920x1080.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/organizacje-1920x1080.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
